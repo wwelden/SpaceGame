@@ -3,6 +3,8 @@ Space game is  a game written in scala for CS2 in 2022
 
 
 https://github.com/user-attachments/assets/bb120a15-1426-47ee-908c-f58d13bd3d12
+
+
 This is an earlier video demo before all of the functionality was added
 
 
