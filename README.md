@@ -10,10 +10,10 @@ This is an earlier video demo before all of the functionality was added
 
 ## Getting the game running:
 
-$ sbt (the build settings are currently using an outdate version of javaFX)
+$ `sbt` (the build settings are currently using an outdate version of javaFX)
 
 
-$ run
+$ `run`
 
 ## How to play
 - WASD or arrow keys to move
